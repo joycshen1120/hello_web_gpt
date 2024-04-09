@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60%;
+}
+
+h1 {
+    color: #2D388B;
+}
+
+h2 {
+    color: #AAA1C8;
+}
+
+h3 {
+    color: #D5C6E0;
+}
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box
+}
+
+button {
+    background-color: #B2B8E6; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+}
